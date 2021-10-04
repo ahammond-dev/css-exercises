@@ -1,0 +1,16 @@
+/* OPTION 1
+div p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+*/
+
+/* OPTION 2 */
+.container .text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
